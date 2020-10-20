@@ -1,0 +1,9 @@
+.country {
+    padding: 10px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    flex-basis: 25%;
+}
+.country:hover {
+    background: lightskyblue;
+}

@@ -1,0 +1,13 @@
+.country__container {
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+    height: 100vh;
+    width: 300px;
+    border: 1px solid black;
+}
+.container {
+    margin: 0 auto;
+    max-width: 1000px;
+    display: flex;
+}

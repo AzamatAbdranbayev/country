@@ -1,0 +1,13 @@
+.country__wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    position: relative;
+    flex-basis: 70%;
+}
+.country__flag {
+    position: absolute;
+    top:6%;
+    right: 0;
+    width: 150px;
+}
